@@ -2,7 +2,7 @@
 
 ## Caveat
 
-I am not a financial advisor. I can not make you rich. I can help you learn things. Do this with no warranty and no guarantees.
+I am not a financial advisor. I'm not going to make you rich. I can help you learn things. Do this with no warranty and no guarantees.
 
 ## Why?
 
