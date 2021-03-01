@@ -6,7 +6,7 @@ The concept is it is easy to make and has a worse ROI than better designed rigs 
 https://www.youtube.com/watch?v=KQSiReNcBeA
 
 
-## BOM
+## BOM ( $2515.11 total )
 - Physical ( Cost $2515.11 )
   - Intel i3 NUC
     - https://www.microcenter.com/product/631454/intel-nuc-10-performance-kit-intel-core-i3-processor ( $349.99 ) 
