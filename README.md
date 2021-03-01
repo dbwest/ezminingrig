@@ -1,6 +1,6 @@
 # ezminingrig
 
-An easy way to get started Mining and learn about mining with a GPU.
+An easy way to get started Mining and learn about mining with a GPU. This will be outdated after 2021
 
 ## BOM
 - Physical 
@@ -14,8 +14,9 @@ An easy way to get started Mining and learn about mining with a GPU.
     - https://www.microcenter.com/product/485877/inland-professional-120gb-ssd-3d-tlc-nand-sata-iii-6gb-s-25-internal-solid-state-drive-(120g) ( $21.99 )
   - USB Thumbdrive
     - https://www.microcenter.com/product/487102/micro-center-16gb-superspeed-usb-31-(gen-1)-flash-drive ( $3.99 )
-  - GPU (example)
-    - 
+  - GPU (high tier example)
+    - https://www.bestbuy.com/site/evga-geforce-rtx-3090-ftw3-ultra-gaming-24gb-gddr6-pci-express-4-0-graphics-card/6436192.p?skuId=6436192
+  - 
 - Digital
   - Balena Etcher 
     - https://www.balena.io/etcher/
