@@ -11,6 +11,8 @@ This is an easy way to get started Mining and learn about mining with a GPU in e
 The concept is it is easy to make and has a worse ROI than better designed rigs but has less parts to source and takes a lot less time and skill to make. For a cool and profitable build start with this one using old 5700XTs (if you can get 8 5700XTs at a good price do this instead!):
 https://www.youtube.com/watch?v=KQSiReNcBeA
 
+This thing is also low noise, compact and has nice lights. The parts are composeable, modular and can be reused for other hobbiest things. You might even consider upgrading the NUC and the other stuff if you plan to eventually do that and move the GPU to a more involved rig.
+
 
 ## BOM ( $2515.11 total )
 - Physical ( Cost $2515.11 )
