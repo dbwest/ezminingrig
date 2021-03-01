@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=KQSiReNcBeA
 - Physical ( Cost $2515.11 )
   - Intel i3 NUC
     - https://www.microcenter.com/product/631454/intel-nuc-10-performance-kit-intel-core-i3-processor ( $349.99 ) 
-  - GPU NVME sled
+  - GPU NVME ( I call this "the sled" thoughout this document )
     - https://amzn.to/3q15oTp ( $61.17 )
   - RAM
     - https://www.microcenter.com/product/626749/crucial-8gb-ddr4-2666-pc4-21300-cl19-single-channel-desktop-memory-module---green ( $37.99 )
@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=KQSiReNcBeA
 - Open nuc with screwdriver
   - Put in RAM
   - Put in SSD Drive
-- Attach ADT Link NVME RG3 sled to NUC
+- Attach ADT Link NVME RG3 Sled to NUC
 - Put Graphics card in ADT Link Sled
 - Plug in your power supply
   - Connect the motherboard cable on the PSU to the sled according to the instructions on the website  
