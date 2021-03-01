@@ -25,6 +25,6 @@ An easy way to get started Mining and learn about mining with a GPU.
 ## Tested Configurations (specs with no default settings and no custom overclock settings in MinerOS)
 | GPU       | Ethash HashRate |
 | --------- | --------------- |
-| RTX 3090  | 109 MH/s        |
+| RTX 3090  | 107 MH/s        |
 | RTX 3070  | 52 MH/s         |
 
