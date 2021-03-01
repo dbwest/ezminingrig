@@ -2,7 +2,7 @@
 
 An easy way to get started Mining and learn about mining with a GPU. This setup is relevant for 2020-21
 
-The concept is it is easy to make and has a worse ROI than better designed rigs but has less parts to source and takes a lot less time and skill to make. For a cool and profitable build start with this one using old 5700XTs:
+The concept is it is easy to make and has a worse ROI than better designed rigs but has less parts to source and takes a lot less time and skill to make. For a cool and profitable build start with this one using old 5700XTs (if you can get 8 5700XTs at a good price do this instead!):
 https://www.youtube.com/watch?v=KQSiReNcBeA
 
 
