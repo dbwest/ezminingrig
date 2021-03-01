@@ -1,10 +1,10 @@
 # ezminingrig v0.1alpha
 
-## Caveat
+## Caveat :construction:
 
 This rig will not make you rich (or will it? :fox_face:). Do this with no warranty and no guarantees.
 
-## Why?
+## Why Even? :thinking:
 
 This is an easy way to get started Mining and learn about mining with a GPU in early 2021. It is not the best way to mine. It is a stepping stone you can use on the way to making better mining rigs later. 
 
@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=KQSiReNcBeA
 This thing is also low noise, compact and has nice lights. The parts are composeable, modular and can be reused for other hobbiest things. You might even consider upgrading the NUC and the other stuff if you plan to eventually do that and move the GPU to a more involved rig.
 
 
-## BOM ( $2515.11 total )
+## BOM ( $2515.11 total ) :hammer:
 - Physical ( Cost $2515.11 )
   - Intel i3 NUC
     - https://www.microcenter.com/product/631454/intel-nuc-10-performance-kit-intel-core-i3-processor ( $349.99 ) 
@@ -45,7 +45,7 @@ This thing is also low noise, compact and has nice lights. The parts are compose
 - (YVT) Your Valuable Time required to make this 
   - 4 hrs tops   
 
-## Quick Instructions
+## Quick Instructions :paperclip:
 - Open nuc with screwdriver
   - Put in RAM
   - Put in SSD Drive
@@ -75,13 +75,13 @@ This thing is also low noise, compact and has nice lights. The parts are compose
 - After saving the changes to your worker you should see that worker restart and you can watch it start mining. Minerstat will indicate when it is getting shares and you can also log in to a terminal on the box remotely to see it go with lots of output. When it gets shares you get fractions of your minimum payout. When that threshold is reached the pool sends to your wallet and you have Ether. 
 - If you are using nanopool you can put your address in nanopool to see the progress towards your payout as it mines. I also recommend configuring the minimum payout to be 0.05
 
-## Tested Configurations (specs with no default settings and no custom overclock settings in MinerOS)
+## Tested Configurations (specs with no default settings and no custom overclock settings in MinerOS) :gear:
 | GPU       | Ethash HashRate |
 | --------- | --------------- |
 | RTX 3090  | 107 MH/s        |
 | RTX 3070  | 52 MH/s         |
 
-## ROI (using current ETH price 1439 for dollar conversions )
+## ROI (using current ETH price 1439 for dollar conversions ) :money_with_wings: <- your money is flying away. I warned you....
   - Gross income
     - Daily $8.38
   - Electrity Expenses (using example of $0.10 / kWh )
@@ -91,5 +91,5 @@ This thing is also low noise, compact and has nice lights. The parts are compose
   - Break Even Point ( Wait you're not hodling !? )
     - $2515 / ( $6.58/day ) = 382 days
 
-## Why is this even a thing?
+## Why is this even a thing? :saxophone:
 I happen to have this rig because I had most of the parts lying around. Then I got a GPU and a PSU with the intention of mining and immediately thought of all the ways I could hook them up. I like hooking the rigs up some times this way because it is easy to do and makes unused parts go to work. :necktie: 
