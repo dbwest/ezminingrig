@@ -31,8 +31,15 @@ An easy way to get started Mining and learn about mining with a GPU. This setup 
 | RTX 3070  | 52 MH/s         |
 
 ## ROI (using current ETH price 1439 for conv)
-  - Gross profit
+  - Gross income
     - Daily $7.31
     - Weekly $51.19
     - Monthly $204.76
-  - Electrity Expenses (using example of $0.10 / kWh ) 
+  - Electrity Expenses (using example of $0.10 / kWh )
+    - Daily $1.80 
+    - Weekly $12.60
+    - Monthly $54 
+  - Net Income 
+    - Daily $5.51
+    - Weekly $38.59
+    - Monthly $150.76
