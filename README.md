@@ -92,4 +92,4 @@ This thing is also low noise, compact and has nice lights. The parts are compose
     - $2515 / ( $6.58/day ) = 382 days
 
 ## Why is this even a thing?
-I happen to have this rig because I had most of the parts lying around. Then I got a GPU and a PSU with the intention of mining and immediately thought of all the ways I could hook them up. I look hooking the rigs up some times this way because it is easy to do and makes unused parts go to work. :whip: 
+I happen to have this rig because I had most of the parts lying around. Then I got a GPU and a PSU with the intention of mining and immediately thought of all the ways I could hook them up. I look hooking the rigs up some times this way because it is easy to do and makes unused parts go to work. :necktie: 
