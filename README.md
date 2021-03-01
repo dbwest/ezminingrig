@@ -41,7 +41,7 @@ This thing is also low noise, compact and has nice lights. The parts are compose
   - Mining OS
     - https://minerstat.com/software/mining-os 
   - Ethereum wallet
-    - email yourself the public address for the ETH account you will send mining spoils to  
+    - send yourself the public address for the ETH account you will send mining spoils to
 - (YVT) Your Valuable Time required to make this 
   - 4 hrs tops   
 
@@ -66,10 +66,14 @@ This thing is also low noise, compact and has nice lights. The parts are compose
 - Put the mining OS thumbdrive in the nuc
 - Plug a keyboard and a monitor into the NUC 
 - Power the nuc on and mash F10 while it is turning on so you get a boot selection menu. Choose boot off USB stick
-- Configure the worker in minerstat to
-  - Mine ethash (I currently use nbminer for this)
+- Configure the worker in minerstat (using a web browser on another computer) to
+  - Mine ethash (consider using nbminer for this)
   - Send to a pool (consider nanopool https://eth.nanopool.org/)
     - get the pool address, e.g. eth-us-west1.nanopool.org:9999, and save it in minerstat in the address editor and gitve it a name you can remember, e.g. NANO-ETH
+  - Send to a wallet
+    - save an entry in the address editor with your public ETH address for your wallet you will send your profit to
+- After saving the changes to your worker you should see that worker restart and you can watch it start mining. Minerstat will indicate when it is getting shares and you can also log in to a terminal on the box remotely to see it go with lots of output. When it gets shares you get fractions of your minimum payout. When that threshold is reached the pool sends to your wallet and you have Ether. 
+- If you are using nanopool you can put your address in nanopool to see the progress towards your payout as it mines. I also recommend configuring the minimum payout to be 0.05
 
 ## Tested Configurations (specs with no default settings and no custom overclock settings in MinerOS)
 | GPU       | Ethash HashRate |
