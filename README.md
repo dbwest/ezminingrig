@@ -2,8 +2,12 @@
 
 An easy way to get started Mining and learn about mining with a GPU. This setup is relevant for 2020-21
 
+The concept is it is easy to make and has a worse ROI than better designed rigs but has less parts to source and takes a lot less time and skill to make. For a cool and profitable build start with this one using old 5700XTs:
+https://www.youtube.com/watch?v=KQSiReNcBeA
+
+
 ## BOM
-- Physical ( Total  )
+- Physical ( Cost $2515.11 )
   - Intel i3 NUC
     - https://www.microcenter.com/product/631454/intel-nuc-10-performance-kit-intel-core-i3-processor ( $349.99 ) 
   - GPU NVME sled
