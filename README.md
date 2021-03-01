@@ -12,3 +12,8 @@
     - https://www.microcenter.com/product/485877/inland-professional-120gb-ssd-3d-tlc-nand-sata-iii-6gb-s-25-internal-solid-state-drive-(120g) ( $21.99 )
   - USB Thumbdrive
     - https://www.microcenter.com/product/487102/micro-center-16gb-superspeed-usb-31-(gen-1)-flash-drive ( $3.99 )
+- Digital
+  - Balena Etcher 
+    - https://www.balena.io/etcher/
+  - Mining OS
+    - https://minerstat.com/software/mining-os    
