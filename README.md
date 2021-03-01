@@ -1,5 +1,9 @@
 # ezminingrig
 
+## Caveat
+
+I am not a financial advisor. I can not make you rich. I can help you learn things. Do this with no warranty and no guarantees.
+
 ## Why?
 
 This is an easy way to get started Mining and learn about mining with a GPU in early 2021. It is not the best way to mine. It is a stepping stone you can use on the way to making better mining rigs later. 
