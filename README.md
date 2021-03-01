@@ -14,6 +14,8 @@ An easy way to get started Mining and learn about mining with a GPU.
     - https://www.microcenter.com/product/485877/inland-professional-120gb-ssd-3d-tlc-nand-sata-iii-6gb-s-25-internal-solid-state-drive-(120g) ( $21.99 )
   - USB Thumbdrive
     - https://www.microcenter.com/product/487102/micro-center-16gb-superspeed-usb-31-(gen-1)-flash-drive ( $3.99 )
+  - GPU (example)
+    - 
 - Digital
   - Balena Etcher 
     - https://www.balena.io/etcher/
@@ -23,6 +25,6 @@ An easy way to get started Mining and learn about mining with a GPU.
 ## Tested Configurations (specs with no default settings and no custom overclock settings in MinerOS)
 | GPU       | Ethash HashRate |
 | --------- | --------------- |
-| GTX 3090  | 109 MH/s        |
-| GTX 3070  | 52 MH/s         |
+| RTX 3090  | 109 MH/s        |
+| RTX 3070  | 52 MH/s         |
 
