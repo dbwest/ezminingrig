@@ -18,7 +18,7 @@ This thing is also low noise, compact and has nice lights. The parts are compose
 - Physical ( Cost $2515.11 )
   - Intel i3 NUC
     - https://www.microcenter.com/product/631454/intel-nuc-10-performance-kit-intel-core-i3-processor ( $349.99 ) 
-  - NVME riser for GPU :suspension_railway: ( I call this "the sled" thoughout this document )
+  - NVME riser for GPU :ski: ( I call this "the sled" thoughout this document )
     - https://amzn.to/3q15oTp ( $61.17 )
   - RAM
     - https://www.microcenter.com/product/626749/crucial-8gb-ddr4-2666-pc4-21300-cl19-single-channel-desktop-memory-module---green ( $37.99 )
