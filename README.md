@@ -1,4 +1,4 @@
-# ezminingrig
+# ezminingrig v0.1alpha
 
 ## Caveat
 
