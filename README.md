@@ -22,11 +22,13 @@ https://www.youtube.com/watch?v=KQSiReNcBeA
     - https://www.bestbuy.com/site/evga-geforce-rtx-3090-ftw3-ultra-gaming-24gb-gddr6-pci-express-4-0-graphics-card/6436192.p?skuId=6436192 ( $1869.99 )
   - Power Supply (for 3090)
     - https://www.monoprice.com/product?p_id=18437 ( $169.99 ) 
-- Digital
+- Digital ( Cost $0 )
   - Balena Etcher 
     - https://www.balena.io/etcher/
   - Mining OS
-    - https://minerstat.com/software/mining-os    
+    - https://minerstat.com/software/mining-os 
+- (YVT) Your Valuable Time required to make this 
+  - 4 hrs tops   
 
 ## Tested Configurations (specs with no default settings and no custom overclock settings in MinerOS)
 | GPU       | Ethash HashRate |
