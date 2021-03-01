@@ -19,3 +19,6 @@ An easy way to get started Mining and learn about mining with a GPU.
     - https://www.balena.io/etcher/
   - Mining OS
     - https://minerstat.com/software/mining-os    
+
+## Tested Configurations
+
