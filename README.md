@@ -1,1 +1,3 @@
 # ezminingrig
+
+# BOM
