@@ -1,6 +1,6 @@
 # ezminingrig
 
-An easy way to get started Mining and learn about mining with a GPU. This will be outdated after 2021
+An easy way to get started Mining and learn about mining with a GPU. This setup is relevant for 2020-21
 
 ## BOM
 - Physical 
