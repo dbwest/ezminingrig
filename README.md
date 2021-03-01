@@ -45,7 +45,7 @@ This thing is also low noise, compact and has nice lights. The parts are compose
 - (YVT) Your Valuable Time required to make this 
   - 4 hrs tops   
 
-## Quick Instructions :paperclip:
+## Quick Instructions :paperclip: <- click the paperclip for support, it talks
 - Open nuc with screwdriver
   - Put in RAM
   - Put in SSD Drive
