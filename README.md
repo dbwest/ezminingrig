@@ -34,11 +34,14 @@ This thing is also low noise, compact and has nice lights. The parts are compose
   - A spare keyboard
   - A small screwdriver (philips)  
   - An extra monitor with an HDMI out
+  - A spare ethernet connection to plug the nuc into (you could do wifi, but you'll have to look at the mineros settings on how to set that in the config.js )
 - Digital ( Cost $0 )
   - Balena Etcher 
     - https://www.balena.io/etcher/
   - Mining OS
     - https://minerstat.com/software/mining-os 
+  - Ethereum wallet
+    - email yourself the public address for the ETH account you will send mining spoils to  
 - (YVT) Your Valuable Time required to make this 
   - 4 hrs tops   
 
@@ -61,7 +64,12 @@ This thing is also low noise, compact and has nice lights. The parts are compose
     - Your workers name
   - safely eject the thumbdrive
 - Put the mining OS thumbdrive in the nuc
-- Plug a keyboard and a monitor into the NUC    
+- Plug a keyboard and a monitor into the NUC 
+- Power the nuc on and mash F10 while it is turning on so you get a boot selection menu. Choose boot off USB stick
+- Configure the worker in minerstat to
+  - Mine ethash (I currently use nbminer for this)
+  - Send to a pool (consider nanopool https://eth.nanopool.org/)
+    - get the pool address, e.g. eth-us-west1.nanopool.org:9999, and save it in minerstat in the address editor and gitve it a name you can remember, e.g. NANO-ETH
 
 ## Tested Configurations (specs with no default settings and no custom overclock settings in MinerOS)
 | GPU       | Ethash HashRate |
