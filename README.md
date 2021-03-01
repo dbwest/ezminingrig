@@ -38,14 +38,10 @@ https://www.youtube.com/watch?v=KQSiReNcBeA
 
 ## ROI (using current ETH price 1439 for conv)
   - Gross income
-    - Daily $7.31
-    - Weekly $51.19
-    - Monthly $204.76
+    - Daily $8.38
   - Electrity Expenses (using example of $0.10 / kWh )
     - Daily $1.80 
-    - Weekly $12.60
-    - Monthly $54 
   - Net Income 
     - Daily $5.51
-    - Weekly $38.59
-    - Monthly $150.76
+  - Break Even Point ( Wait you're not hodling !? )
+    - $2515 / ( $6.58/day ) = 382 days
