@@ -1,5 +1,7 @@
 # ezminingrig
 
+An easy way to get started Mining and learn about mining with a GPU.
+
 ## BOM
 - Physical 
   - Intel i3 NUC
