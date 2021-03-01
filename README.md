@@ -23,7 +23,11 @@ https://www.youtube.com/watch?v=KQSiReNcBeA
   - GPU (high tier example)
     - https://www.bestbuy.com/site/evga-geforce-rtx-3090-ftw3-ultra-gaming-24gb-gddr6-pci-express-4-0-graphics-card/6436192.p?skuId=6436192 ( $1869.99 )
   - Power Supply (for 3090)
-    - https://www.monoprice.com/product?p_id=18437 ( $169.99 ) 
+    - https://www.monoprice.com/product?p_id=18437 ( $169.99 )
+  - Another Computer to make the thumbdrive to boot off of
+  - A spare keyboard
+  - A small screwdriver (philips)  
+  - An extra monitor with an HDMI out
 - Digital ( Cost $0 )
   - Balena Etcher 
     - https://www.balena.io/etcher/
@@ -33,12 +37,25 @@ https://www.youtube.com/watch?v=KQSiReNcBeA
   - 4 hrs tops   
 
 ## Quick Instructions
-1. Open nuc with screwdriver
-  1. Put in RAM
-  2. Put in SSD Drive
-2. Attach ADT Link NVME RG3 sled to NUC
-3. Put Graphics card in ADT Link Sled
-4. Download mining OS https://minerstat.com/download/msos-direct  
+- Open nuc with screwdriver
+  - Put in RAM
+  - Put in SSD Drive
+- Attach ADT Link NVME RG3 sled to NUC
+- Put Graphics card in ADT Link Sled
+- Plug in your power supply
+  - Connect the motherboard cable on the PSU to the sled according to the instructions on the website  
+- Download mining OS https://minerstat.com/download/msos-direct  
+- Use Balena Etcher to flash mining OS to Thumbdrive
+- Set up an account on minerstat
+  - Save your access key in a place you can access it later
+  - Make a worker and give it a name. Save that name in a place you can access it later
+- Use a text editor to edit the config.js file at the root of the flashed thumbdrive
+  - You need to fill out two fields you saved earlier
+    - Your access key
+    - Your workers name
+  - safely eject the thumbdrive
+- Put the mining OS thumbdrive in the nuc
+- Plug a keyboard and a monitor into the NUC    
 
 ## Tested Configurations (specs with no default settings and no custom overclock settings in MinerOS)
 | GPU       | Ethash HashRate |
