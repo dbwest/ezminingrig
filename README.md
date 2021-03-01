@@ -2,7 +2,7 @@
 
 ## Caveat
 
-This rig will not make you rich (or will it :fox_face:). Do this with no warranty and no guarantees.
+This rig will not make you rich (or will it? :fox_face:). Do this with no warranty and no guarantees.
 
 ## Why?
 
