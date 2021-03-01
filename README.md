@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=KQSiReNcBeA
 | RTX 3090  | 107 MH/s        |
 | RTX 3070  | 52 MH/s         |
 
-## ROI (using current ETH price 1439 for conv)
+## ROI (using current ETH price 1439 for dollar conversions )
   - Gross income
     - Daily $8.38
   - Electrity Expenses (using example of $0.10 / kWh )
