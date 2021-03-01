@@ -1,6 +1,8 @@
 # ezminingrig
 
-An easy way to get started Mining and learn about mining with a GPU. This setup is relevant for 2020-21
+## Why?
+
+This is an easy way to get started Mining and learn about mining with a GPU in early 2021. It is not the best way to mine. It is a stepping stone you can use on the way to making better mining rigs later. 
 
 The concept is it is easy to make and has a worse ROI than better designed rigs but has less parts to source and takes a lot less time and skill to make. For a cool and profitable build start with this one using old 5700XTs (if you can get 8 5700XTs at a good price do this instead!):
 https://www.youtube.com/watch?v=KQSiReNcBeA
@@ -29,6 +31,14 @@ https://www.youtube.com/watch?v=KQSiReNcBeA
     - https://minerstat.com/software/mining-os 
 - (YVT) Your Valuable Time required to make this 
   - 4 hrs tops   
+
+## Quick Instructions
+1. Open nuc with screwdriver
+  1. Put in RAM
+  2. Put in SSD Drive
+2. Attach ADT Link NVME RG3 sled to NUC
+3. Put Graphics card in ADT Link Sled
+4. Download mining OS https://minerstat.com/download/msos-direct  
 
 ## Tested Configurations (specs with no default settings and no custom overclock settings in MinerOS)
 | GPU       | Ethash HashRate |
