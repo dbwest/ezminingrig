@@ -110,3 +110,6 @@ I would recommend tapping into the mining communities that exist by going to the
 Don't burn your building down, use renewable energy and try capturing a little of the current goldrush here while it is still worth it.
 
 Currently mining is profitible, and even when it isn't immediately... HODL. 
+
+## But I'm not technical!
+All the more reason to get into this... Enjoy learning something new...
