@@ -94,11 +94,11 @@ This thing is also low noise, compact and has nice lights (well those just come 
 ## Why is this even a thing? :saxophone:
 I happen to have this rig because I had most of the parts lying around. Then I got a GPU and a PSU with the intention of mining and immediately thought of all the ways I could hook them up. I like hooking the rigs up some times this way because it is easy to do and makes unused parts go to work. :necktie: 
 
-## Updates
+## Updates :honeybee:
 I tried HiveOS and can now recommend it besides some security concerns. MinerOS will get you started but HiveOS can get you better hashrates:
 - https://hiveos.farm/
 
-## A note on profitibility and taking this further
+## A note on profitibility and taking this further :moneybag:
 This kind of rig is actually very capable of making more than listed above. ETH has been on a real bull run... and this is crypto you're getting! You'll want to HODL it and/or reinvest it and really, many things could possibly go right if you don't suck at DeFi...
 
 I currently have a mixed rig which is made up of a misfit hodgepodge that includes 2 of these sled style rigs, 1 crazy inefficient PowerEdge r910, and one kind of half full sluice-style efficient setup that is more similar to the one in the mining chamber video.
@@ -111,5 +111,6 @@ Don't burn your building down, use renewable energy and try capturing a little o
 
 Currently mining is profitible, and even when it isn't immediately... HODL. 
 
-## But I'm not technical!
-All the more reason to get into this... Enjoy learning something new...
+## But I'm not technical! :confused:
+All the more reason to get into this... Enjoy learning something new... maybe pair up with someone that is... may also be the beginning of a beautiful friendship.
+Be careful though... your valuable time :watch: is at stake... and you may be left with a ... learning experience. If you are the kind of person that can accept that, and see it as not an entirely bad or fruitless thing, then this guide was made for you.
