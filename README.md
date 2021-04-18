@@ -93,3 +93,10 @@ This thing is also low noise, compact and has nice lights. The parts are compose
 
 ## Why is this even a thing? :saxophone:
 I happen to have this rig because I had most of the parts lying around. Then I got a GPU and a PSU with the intention of mining and immediately thought of all the ways I could hook them up. I like hooking the rigs up some times this way because it is easy to do and makes unused parts go to work. :necktie: 
+
+## Updates
+I tried HiveOS and can now recommend it besides some security concerns. MinerOS will get you started but HiveOS can get you better hashrates:
+- https://hiveos.farm/
+
+## A note on profitibility
+This kind of rig is actually very capable of making more than listed above. ETH has been on a real bull run... and this is crypto you're getting! You'll want to HODL it and reinvest it and really, many things could possibly go right if you don't suck at DeFi...
