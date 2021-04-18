@@ -38,7 +38,7 @@ This thing is also low noise, compact and has nice lights (well those just come 
 - Digital ( Cost $0 )
   - Balena Etcher 
     - https://www.balena.io/etcher/
-  - Mining OS
+  - Mining OS (note... you can opt to use HiveOS and get about 20 M/Hs more out of any card with Overclocking...)
     - https://minerstat.com/software/mining-os 
   - Ethereum wallet
     - send yourself the public address for the ETH account you will send mining spoils to
