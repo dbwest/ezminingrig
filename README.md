@@ -76,10 +76,10 @@ This thing is also low noise, compact and has nice lights (well those just come 
 - If you are using nanopool you can put your address in nanopool to see the progress towards your payout as it mines. I also recommend configuring the minimum payout to be 0.05
 
 ## Tested Configurations (specs with no default settings and no custom overclock settings in MinerOS) :gear:
-| GPU       | Ethash HashRate |
-| --------- | --------------- |
-| RTX 3090  | 107 MH/s        |
-| RTX 3070  | 52 MH/s         |
+| GPU       | Ethash HashRate | Ethash HashRate Overclocked (New!) |
+| --------- | --------------- | ---------------------------------- |
+| RTX 3090  | 107 MH/s        | 119 MH/s                           | 
+| RTX 3070  | 52 MH/s         | 60 MH/s                            |
 
 ## ROI (using current ETH price 1439 for dollar conversions ) :money_with_wings: <- your money is flying away. I warned you....
   - Gross income
