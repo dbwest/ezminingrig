@@ -6,7 +6,7 @@ This rig will not make you rich :fox_face:. Do this with no warranty and no guar
 
 ## Why Even? :thinking:
 
-This is an easy way to get started Mining and learn about mining with a GPU in early 2021. It is not the best way to mine. It is a stepping stone you can use on the way to making better mining rigs later. 
+This is an easy way to get started mining and learn about mining with a GPU in early 2021. It is not the best way to mine. It is a stepping stone you can use on the way to making better mining rigs later. 
 
 The concept is it is easy to make and has a worse ROI than better designed rigs but has less parts to source and takes a lot less time and skill to make. For a cool and profitable build start with this one using old 5700XTs (if you can get 8 5700XTs at a good price do this instead!):
 https://www.youtube.com/watch?v=KQSiReNcBeA
