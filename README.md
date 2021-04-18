@@ -98,5 +98,15 @@ I happen to have this rig because I had most of the parts lying around. Then I g
 I tried HiveOS and can now recommend it besides some security concerns. MinerOS will get you started but HiveOS can get you better hashrates:
 - https://hiveos.farm/
 
-## A note on profitibility
+## A note on profitibility and taking this further
 This kind of rig is actually very capable of making more than listed above. ETH has been on a real bull run... and this is crypto you're getting! You'll want to HODL it and/or reinvest it and really, many things could possibly go right if you don't suck at DeFi...
+
+I currently have a mixed rig which is made up of a misfit hodgepodge that includes 2 of these sled style rigs, 1 crazy inefficient PowerEdge r910, and one kind of half full sluice-style efficient setup that is more similar to the one in the mining chamber video.
+
+I currently have a total hashrate for the whole farm of 385 MH/s, and that is enough to make $111 every 3 days during this bull run. This is nothing compared to the beefy setups people often get into and you will likely want to go bigger as long as you can safely expand.
+
+I would recommend tapping into the mining communities that exist by going to the Discord servers for the best YouTubers on this. That includes RedPanda Mining, MiningChamber, VoskCoin, etc. There's a lot out there. There videos are good and they can show you how to wire things and not cause a fire, which is really an important thing to do.
+
+Don't burn your building down, use renewable energy and try capturing a little of the current goldrush here while it is still worth it.
+
+Currently mining is profitible, and even when it isn't immediately... HODL. 
