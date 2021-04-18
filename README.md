@@ -113,4 +113,4 @@ Currently mining is profitible, and even when it isn't immediately... HODL.
 
 ## But I'm not technical! :confused:
 All the more reason to get into this... Enjoy learning something new... maybe pair up with someone that is... may also be the beginning of a beautiful friendship.
-Be careful though... your valuable time :watch: is at stake... and you may be left with a ... learning experience. If you are the kind of person that can accept that, and see it as not an entirely bad or fruitless thing, then this guide was made for you.
+Be careful though... your valuable time :watch: is at stake... and you may be left with a ... learning experience :lemon:. If you are the kind of person that can accept that, and see it as not an entirely bad or fruitless thing :cocktail:, then this guide was made for you.
